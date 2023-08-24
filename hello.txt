@@ -1,4 +1,8 @@
 hello ap bye bye ycp
 welcome to javahome
 hello javahome
+<<<<<<< HEAD
 javahome cloud
+=======
+pipeline code
+>>>>>>> 7a2490254476ab856df04b873ad87917de5b15e4
